@@ -3,9 +3,9 @@ BASE_HOA = {
   :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
-
+z
 
 def add_character(show, name)
-  show.push(name)
-  show
+  # Write your implementation here
+  # Should return the array of the 'show' argument
 end
